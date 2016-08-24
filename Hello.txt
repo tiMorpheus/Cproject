@@ -1,0 +1,12 @@
+
+Типы данных    С
+
+	void - Пустота  
+
+	char - [-128 ,  127] 
+
+	int
+	double 
+	long
+	float
+
